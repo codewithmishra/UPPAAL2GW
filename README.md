@@ -1,9 +1,13 @@
 Requirements:
 
-Python 3.8 or higher
-Java 11
-Graphviz
+Python 3.8 or higher,
+
+Java 11,
+
+Graphviz,
+
 GW2UPPAAL - https://github.com/iyerkumar/GW2UPPAAL
+
 Run the following commands to support graphviz
 - pip install graphviz
 - pip install jsondiff
