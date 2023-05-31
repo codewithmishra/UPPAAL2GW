@@ -40,7 +40,7 @@ for vertex in new_vertices:
 
 # remove the deleted vertices and edges from the graph
 for vertex_name in deleted_vertices:
-    graph.node(vertex_name, color='grey', style='dashed')
+    graph.node(vertex_name, color='red', style='dashed')
 
 # add the old vertices to the graph
 for vertex in old_vertices:
